@@ -1,0 +1,6 @@
+Numpy: 2.0.2
+Pandas: 2.2.2
+Matplotlib: 3.10.0
+Seaborn: 0.13.2
+openpyxl==3.1.5
+streamlit:1.51.0
